@@ -9,10 +9,10 @@ public class AreaOfTraingle {
 		System.out.print("Enter the height: ");
 		double height = input.nextDouble();
 		
-		double area_in_cm = 0.5 * base * height;
-        double area_in_Inch = area_in_cm / (2.54 * 2.54);
+		double areaInCm = 0.5 * base * height;
+        double areaInInch = areaInCm / (2.54 * 2.54);
         
-        System.out.println("Area of triangle in square inches is: " + area_in_Inch + " and in square centimetres is: " + area_in_cm);
+        System.out.println("Area of triangle in square inches is: " + areaInInch + " and in square centimetres is: " + areaInCm);
         
         input.close();
 	}
