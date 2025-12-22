@@ -1,0 +1,29 @@
+package strings;
+
+import java.util.*;
+
+public class StringOutOfBoundException {
+	public static void generateException(String text) {
+        System.out.println(text.charAt(text.length()));
+    }
+
+    public static void handleException(String text) {
+        try {
+            System.out.println(text.charAt(text.length()));
+        } 
+        catch (StringIndexOutOfBoundsException e) {
+            System.out.println("StringIndexOutOfBoundsException Handled");
+        }
+    }
+
+    public static void main(String[] args) {
+
+        Scanner input = new Scanner(System.in);
+        String text = input.next();
+
+        handleException(text);
+        
+        input.close();
+    }
+
+}
