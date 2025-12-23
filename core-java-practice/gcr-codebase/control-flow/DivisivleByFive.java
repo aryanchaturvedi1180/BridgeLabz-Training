@@ -15,7 +15,7 @@ public class DivisivleByFive {
 			System.out.println("No, it is not divisible by 5");
 		}
 		
-
+		input.close();
 	}
 
 }
