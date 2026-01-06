@@ -3,7 +3,7 @@ import java.util.*;
 
 interface Loanable {
 	void applyForLoan();
-	boolean calculateLoanEligibility();
+	double calculateLoanEligibility();
 }
 
 abstract class BankAccount {
@@ -65,10 +65,13 @@ class SavingAccount extends BankAccount implements Loanable {
 		return getBalance() * 0.04; // interst 4 percent
 	}
 	public void applyForLoan() {
-		System.out.println("--Loan Applied--");
+		System.out.println("Loan Applied");
 	}
-	public boolean calculateLoanEligibility() {
-		return getBalance() >= 5000; 
+	public double calculateLoanEligibility() {
+		if(getBalance() >= 5000) {
+			return getBalance() * 2; // Loan up to 2times of balance
+		}
+		return 0;
 	}
 	
 }
@@ -85,8 +88,11 @@ class CurrentAccount extends BankAccount implements Loanable {
 	public void applyForLoan() {
 		System.out.println("Loan Applied");
 	}
-	public boolean calculateLoanEligibility() {
-		return getBalance() >= 10000; 
+	public double calculateLoanEligibility() {
+		if(getBalance() >= 10000) {
+			return getBalance() * 3; 
+		}
+		return 0;
 	}
 }
 
@@ -111,7 +117,15 @@ public class BankingSystem {
 			
 			Loanable loan = (Loanable) acc;
 			loan.applyForLoan();
-			System.out.println("Loan Eligible : " + loan.calculateLoanEligibility());
+			
+			double eligibleAmount = loan.calculateLoanEligibility();
+
+	        if (eligibleAmount > 0) {
+	            System.out.println("Loan Eligible for Amount : ₹" + eligibleAmount);
+	        } 
+	        else {
+	            System.out.println("Loan Not Eligible");
+	        }
 		}
 		
 		
