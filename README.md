@@ -140,7 +140,7 @@ BridgeLabz-Training/
 * Implemented *EduQuiz* application
 
 ---
-## 🗓️ Week 4: Encapsulation, Polymorphism & Interfaces  
+## Week 4: Encapsulation, Polymorphism & Interfaces  
 **(05 Jan 2026 – Ongoing)**
 
 ### **05-Jan-2026 (Monday)**
