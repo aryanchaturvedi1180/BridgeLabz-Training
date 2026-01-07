@@ -139,6 +139,18 @@ BridgeLabz-Training/
 * Implemented *Library Management System*
 * Implemented *EduQuiz* application
 
+---
+## 🗓️ Week 4: Encapsulation, Polymorphism & Interfaces  
+**(05 Jan 2026 – Ongoing)**
+
+### **05-Jan-2026 (Monday)**
+- Studied Encapsulation, Interface, Abstract Class & Polymorphism  
+- Scenario-based and LeetCode problems:
+  - Student Score Analyzer  
+  - Invoice Generator  
+  - Cafeteria Menu App  
+
+
 
 ## 📬 Author
 
