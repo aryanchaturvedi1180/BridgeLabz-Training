@@ -141,15 +141,42 @@ BridgeLabz-Training/
 
 ---
 ## Week 4: Encapsulation, Polymorphism & Interfaces  
-**(05 Jan 2026 – Ongoing)**
 
-### **05-Jan-2026 (Monday)**
+### 05-Jan-2026 (Monday)
 - Studied Encapsulation, Interface, Abstract Class & Polymorphism  
-- Scenario-based and LeetCode problems:
+- Solved scenario-based and LeetCode problems:
   - Student Score Analyzer  
   - Invoice Generator  
   - Cafeteria Menu App  
 
+### 06-Jan-2026 (Tuesday)
+- Solved and submitted questions on OOP concepts  
+- Solved scenario-based questions:
+  - Phone Contact Organizer  
+  - Student Report Generator  
+  - Cafeteria Menu App  
+  - Bank Account Manager  
+
+### 07-Jan-2026 (Wednesday)
+- Studied Data Structure Introduction and Linked List concepts  
+- Studied approach towards story-based (scenario) problems  
+- Solved scenario-based questions:
+  - Cab Booking / Ride Management System  
+  - Online Banking System  
+
+### 08-Jan-2026 (Thursday)
+- Solved problems related to Linked List  
+- Solved scenario-based question:
+  - Invoice Generator for Freelancers  
+
+### 09-Jan-2026 (Friday)
+- Completed remaining Linked List problems  
+- Solved scenario-based questions:
+  - Hospital Patient Management System  
+  - Vehicle Rental Application  
+  - Flight Booking System  
+
+**(12 Jan 2026 – Ongoing)**
 
 
 ## 📬 Author
