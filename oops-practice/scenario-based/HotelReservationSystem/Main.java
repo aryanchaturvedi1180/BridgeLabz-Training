@@ -11,7 +11,8 @@ public class Main {
 
             Guest g1 = new Guest("Aryan", "9999999999");
             Reservation reservation = new Reservation(g1, r2, 3);
-
+            
+            
             reservation.checkIn();
             reservation.checkOut();
 
