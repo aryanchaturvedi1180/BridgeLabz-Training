@@ -11,5 +11,5 @@
 
 # Ignore specific folders
 ../scenario-based/OnlineBankingSystem/InsufficientBalanceException.java
-../scenario-based/OnlineExaminationSystem/
+/../scenario-based/OnlineExaminationSystem/
 
