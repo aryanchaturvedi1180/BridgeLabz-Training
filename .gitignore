@@ -1,13 +1,13 @@
 .DS_Store
 # Ignore specific scenario-based Java files (parent directory)
 
-oops-practice/scenario-based/BankAccountManager.java
-oops-practice/scenario-based/CabBookingSystem.java
-oops-practice/scenario-based/CafeteriaMenuApp.java
-oops-practice/scenario-based/EduQuiz.java
-oops-practice/scenario-based/InvoiceGenerator.java
-oops-practice/scenario-based/ManageStudentTestScores.java
-oops-practice/scenario-based/MathUtility.java
-oops-practice/scenario-based/OnlineBankingSystem/InsufficientBalanceException.java
-oops-practice/scenario-based/OnlineExaminationSystem/
-oops-practice/scenario-based/package-info.java
+scenario-based/BankAccountManager.java
+scenario-based/CabBookingSystem.java
+scenario-based/CafeteriaMenuApp.java
+scenario-based/EduQuiz.java
+scenario-based/InvoiceGenerator.java
+scenario-based/ManageStudentTestScores.java
+scenario-based/MathUtility.java
+scenario-based/OnlineBankingSystem/InsufficientBalanceException.java
+scenario-based/OnlineExaminationSystem/
+scenario-based/package-info.java
