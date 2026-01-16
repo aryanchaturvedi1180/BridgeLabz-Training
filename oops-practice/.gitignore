@@ -1,7 +1,3 @@
-gcr-codebase/.DS_Store
-gcr-codebase/class-and-object/.DS_Store
-gcr-codebase/inheritance/.DS_Store
-leet-code-codebase/.DS_Store
 scenario-based/BankAccountManager.java
 scenario-based/CabBookingSystem.java
 scenario-based/CafeteriaMenuApp.java
