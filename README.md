@@ -176,8 +176,41 @@ BridgeLabz-Training/
   - Vehicle Rental Application  
   - Flight Booking System  
 
-**(12 Jan 2026 – Ongoing)**
+---
+## Week 5: DSA and OOPS Scenario 
 
+### 12-Jan-2026 (Monday)
+  
+  - Solved *E-Commerce Order Management System* Scenario based question
+  - Solved *Student Course Registration System* Scenario based question
+  - Solved *Inventory Management System* Scenario based question
+  - Solved *Hospital Management System* Scenario based question
+  - Solved *Online Examination System* Scenario based question
+ 
+### 13-Jan-2026 (Tuesday)
+
+  - Solved *Hotel Reservation System* Scenario based question
+  - Solved *Online Voting System* Scenario based question
+  - Solved *Digital Wallet System* Scenario based question
+  - Created and Resolved Git conflict
+ 
+### 14-Jan-2026 (Wednesday)
+
+  - Studied *Stack, Queue and Hash Map* material
+  - Solved problems related to *Stack and Queue*
+  - Solved problems related to *Hash Map and Hash Set*
+ 
+### 15-Jan-2026 (Thursday)
+
+  - Studied *Sorting Algorithm* material
+  - Solved problems related to *Sorting Algorithms*
+  - Studied *Searching Algorithms* and *Address Book Problem* scenario based
+ 
+### 16-Jan-2026 (Friday)
+
+  - Studied *Searching Algorithm* material
+  - Solved problems related to *Searching Algorithms*
+  - Studied *Algorithm's Runtime Analysis & Big-O Notation* sheet
 
 ## 📬 Author
 
