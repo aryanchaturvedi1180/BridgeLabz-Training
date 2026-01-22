@@ -1,0 +1,9 @@
+This is a sample file created for testing purposes.
+The content written here does not have any real meaning.
+
+You can use this file to:
+- Test file reading and writing
+- Check upload/download functionality
+- Verify parsing logic
+- Practice handling file I/O
+
