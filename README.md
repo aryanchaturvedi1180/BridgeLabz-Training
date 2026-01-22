@@ -212,6 +212,30 @@ BridgeLabz-Training/
   - Solved problems related to *Searching Algorithms*
   - Studied *Algorithm's Runtime Analysis & Big-O Notation* sheet
 
+### 17-Jan-2026 (Saturday)
+  - Started with the *Address Book Problem* 
+  - Solved remaining problems related to *Searching Algorithms*
+  - Studied *Master Git prgmng Documentation* sheet
+ 
+---
+## Week 6: DSA and Address Book Problem
+
+### 19-Jan-2026 (Monday)
+  - Solved some problems related *Address Book Problem* 
+  - Studied *Java Generics* sheet
+ 
+### 20-Jan-2026 (Tuesday)
+  - Solved some part of the *Address Book Problem* 
+  - Solved remaining problems related to *Big-O Notation*
+  - Solved *Employee Role Polymorphism* Scenario based question
+  - Solved *ParcelTracker* Scenario based question
+  - Solved *ExamProctor* Scenario based question
+ 
+### 21-Jan-2026 (Wednesday)
+  - Solved *SmartCheckout – Supermarket Billing Queue* scenario based question 
+  - Solved and submitted problems related to *Java Generics*
+  - Studied *Exceptions* sheet
+
 ## 📬 Author
 
 **Aryan Chaturvedi**
