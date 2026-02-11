@@ -1,0 +1,6 @@
+projectKey=addressbook-app
+serverUrl=http://localhost:9000
+serverVersion=26.2.0.119303
+dashboardUrl=http://localhost:9000/dashboard?id=addressbook-app
+ceTaskId=f74a612c-1405-4e2b-b6fe-f4052de1088d
+ceTaskUrl=http://localhost:9000/api/ce/task?id=f74a612c-1405-4e2b-b6fe-f4052de1088d
