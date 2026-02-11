@@ -1,14 +1,2 @@
 # Mac
 .DS_Store
-
-# Maven
-target/
-
-# Compiled files
-*.class
-
-# Eclipse
-.project
-.classpath
-.settings/
-
