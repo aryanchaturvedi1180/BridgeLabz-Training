@@ -1,0 +1,32 @@
+package exceptions;
+import java.util.*;
+
+public class NestedTryCatch {
+	public static void main(String[] args) {
+		Scanner input = new Scanner(System.in);
+		
+		int arr[] = {10, 20, 30, 40, 50};
+		
+		try {
+			System.out.print("Enter array index: ");
+            int index = input.nextInt();
+
+            try {
+                System.out.print("Enter divisor: ");
+                int divisor = input.nextInt();
+
+                int result = arr[index] / divisor;
+                System.out.println("Result: " + result);
+
+            } catch (ArithmeticException e) {
+                System.out.println("Cannot divide by zero!");
+           }
+        } 
+		catch (ArrayIndexOutOfBoundsException e) {
+            System.out.println("Invalid array index!");
+        } 
+		finally {
+            input.close();
+        }
+	}
+}
